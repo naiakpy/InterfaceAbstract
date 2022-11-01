@@ -8,7 +8,7 @@ package interfaceabstract;
  *
  * @author nayyakamila
  */
-public class InterfaceAbstractFerza {
+public class InterfaceAbstractNayya {
 
     /**
      * @param args the command line arguments
